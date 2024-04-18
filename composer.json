@@ -1,0 +1,13 @@
+{
+    "name": "mukesh/query-helper",
+    "description": "Query helper for faster development",
+    "autoload": {
+        "psr-4": {
+            "QueryHelper\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2",
+        "laravel": ">=8.*"
+    }
+}
