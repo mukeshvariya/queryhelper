@@ -1,0 +1,2 @@
+# queryhelper
+Laravel query helper
