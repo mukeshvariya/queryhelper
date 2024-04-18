@@ -1,5 +1,5 @@
 {
-    "name": "mukesh/query-helper",
+    "name": "snowfingers/query-helper",
     "description": "Query helper for faster development",
     "autoload": {
         "psr-4": {
