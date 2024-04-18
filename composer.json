@@ -8,6 +8,6 @@
     },
     "require": {
         "php": ">=8.2",
-        "laravel": ">=8.*"
+        "laravel/framework": ">=8.75"
     }
 }
