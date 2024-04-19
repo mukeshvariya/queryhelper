@@ -1,6 +1,6 @@
-# queryhelper
+# QueryHelper
 Laravel query helper
-This package will short your code as Laravel Developer
+This package will short your code and decrease the number of queries as Laravel Developer
 
 ## How to install in Laravel project?
 `composer require snowfingers/query-helper`
