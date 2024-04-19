@@ -13,4 +13,4 @@ First import the class using Laravel sytem
 
 Now in your controller function
 
-`QueryHelper::leftJoin(ModelQueryVariable, ChildClass::class)`
+`QueryHelper::leftJoin(ModelQueryVariable, ChildClass::class);`
